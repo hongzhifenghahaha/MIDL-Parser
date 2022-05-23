@@ -1,0 +1,10 @@
+struct(node)
+    member_list
+        int32
+            simple_declarator(x)
+module(m2)
+    struct(node)
+        member_list
+            int32
+                simple_declarator(x)
+    struct(x)

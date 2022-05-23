@@ -1,0 +1,6 @@
+struct node {int x; double y; std::cout z;};
+struct node {int x;};
+struct node {};struct node;
+module m1 {struct node {int x; double y; std::cout z;};};
+module m2 {struct node {int x;};};
+module m3 {struct node {};struct node;struct nodeee;};module m4 {module m2 {struct node {int x;};};module m3 {struct node {};struct node;struct nodeee;};};

@@ -1,0 +1,5 @@
+unary_expr
+    +
+    literal
+        INTEGER
+            2

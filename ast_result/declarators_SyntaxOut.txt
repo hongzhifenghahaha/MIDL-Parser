@@ -1,0 +1,21 @@
+array_declarator(list)
+    20
+    3
+    *
+        4
+    -
+        2
+        /
+            1
+simple_declarator(x)
+    1
+    *
+        3
+    -
+        2
+        *
+            2
+        *
+            3
+simple_declarator(q)
+    'c'

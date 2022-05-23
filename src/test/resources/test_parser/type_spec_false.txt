@@ -1,0 +1,21 @@
+int 8
+int 16
+int 32
+int 64
+uint 16
+uint 32
+unsignedlong long
+unsigned longlong
+uint 64
+uint 8
+:std
+:::std
+std:
+std::
+std:::
+std:cout
+struct {int a;}
+node {int a;}
+struct node {int a}
+struct node {int a;};
+{int a;}

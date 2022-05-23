@@ -1,0 +1,8 @@
+member_list
+    double
+        simple_declarator(a)
+        simple_declarator(b)
+            1
+    scoped_name(std)
+    cout
+        simple_declarator(c)

@@ -1,0 +1,9 @@
+
+
+
+::std a;
+std a[1 | -1];
+std::cout::endl a,ascasc;
+::std::cout::endl x = 1,x = 3+223;
+float y = 132 * 231 | 2414,a[20];
+double a; long double b; unsigned short c; uint16 x;

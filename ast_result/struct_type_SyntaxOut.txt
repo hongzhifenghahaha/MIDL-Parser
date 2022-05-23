@@ -1,0 +1,4 @@
+struct(node)
+    member_list
+        int32
+            simple_declarator(x)

@@ -1,0 +1,19 @@
+module m3{
+    struct s1{
+        int32 x1;
+        double x2,x3,x4;
+        float x5,x6=3;
+        string x7[10],x8[2]=[~1,-2];
+        std::cout x9;
+        struct s2{
+        } x10;
+        struct s4{
+            short x11;
+        } x12;
+    };
+    module m2 {
+        struct node {
+            int x;
+        };
+    };
+}

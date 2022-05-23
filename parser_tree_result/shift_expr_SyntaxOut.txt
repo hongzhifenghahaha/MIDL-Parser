@@ -1,0 +1,26 @@
+shift_expr
+    add_expr
+        mult_expr
+            unary_expr
+                literal
+                    INTEGER
+                        1
+        +
+        mult_expr
+            unary_expr
+                literal
+                    INTEGER
+                        1
+    >>
+    add_expr
+        mult_expr
+            unary_expr
+                literal
+                    INTEGER
+                        1
+        -
+        mult_expr
+            unary_expr
+                literal
+                    INTEGER
+                        1

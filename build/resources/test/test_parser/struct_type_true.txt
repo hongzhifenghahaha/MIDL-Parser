@@ -1,0 +1,3 @@
+struct node {int x; double y; std::cout z;}
+struct node {int x;}
+struct node {}

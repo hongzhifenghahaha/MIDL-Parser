@@ -1,0 +1,24 @@
+struct(s1)
+    member_list
+        int32
+            simple_declarator(x1)
+        double
+            simple_declarator(x2)
+            simple_declarator(x3)
+            simple_declarator(x4)
+        float
+            simple_declarator(x5)
+            simple_declarator(x6)
+                3
+        string
+            array_declarator(x7)
+                10
+            array_declarator(x8)
+                2
+                ~
+                    1
+                -
+                    2
+        scoped_name(std)
+        cout
+            simple_declarator(x9)

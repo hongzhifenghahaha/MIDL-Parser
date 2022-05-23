@@ -1,0 +1,20 @@
+float
+double
+long double
+unsigned short
+uint16
+unsigned long
+uint32
+unsigned long long
+uint64
+uint8
+short
+int16
+long
+int32
+long long
+int64
+int8
+char
+string
+boolean

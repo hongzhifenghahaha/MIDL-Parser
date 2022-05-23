@@ -1,0 +1,13 @@
+True
+False
+ture
+TURE
+FLASE
+flase
+TRue
+TRUe
+tRuE
+tRUe
+tRue
+FAlse
+FALSe

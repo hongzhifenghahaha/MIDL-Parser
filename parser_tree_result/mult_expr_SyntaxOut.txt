@@ -1,0 +1,22 @@
+mult_expr
+    unary_expr
+        ~
+        literal
+            INTEGER
+                1
+    /
+    unary_expr
+        -
+        literal
+            INTEGER
+                3
+    *
+    unary_expr
+        literal
+            INTEGER
+                2
+    %
+    unary_expr
+        literal
+            INTEGER
+                3

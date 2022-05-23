@@ -1,0 +1,2 @@
+floating_pt_type
+    long double

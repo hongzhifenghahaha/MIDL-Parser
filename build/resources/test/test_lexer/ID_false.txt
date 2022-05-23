@@ -1,0 +1,9 @@
+_a
+1a
+a__1
+a__A
+aA_
+TRUE
+FALSE
+true
+false

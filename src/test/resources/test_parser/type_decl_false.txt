@@ -1,0 +1,7 @@
+struct {int a;}
+node {int a;}
+struct node {int a}
+struct node {int a;};
+{int a;}
+struct node;
+struct

@@ -1,0 +1,4 @@
+module m1{}
+module m2{;}
+module m3{struct node{int a;};};
+module m4{struct node1{};struct node2{}}

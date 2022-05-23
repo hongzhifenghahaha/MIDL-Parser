@@ -1,0 +1,14 @@
+
+x
+struct;
+struct node {int a;}
+module m1{struct node{int a;};}
+struct {int a;}
+node {int a;}
+struct node {int a}
+struct node {int a;}
+{int a;}
+struct node
+struct;
+module m1;
+module;

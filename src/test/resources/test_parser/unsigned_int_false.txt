@@ -1,0 +1,15 @@
+unsigned
+long
+short
+int16
+int32
+int64
+int8
+unsignedshort
+uint 16
+unsignedlong
+uint 32
+unsignedlong long
+unsigned longlong
+uint 64
+uint 8

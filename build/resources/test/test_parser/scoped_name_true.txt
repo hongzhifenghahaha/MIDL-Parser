@@ -1,0 +1,6 @@
+::std
+std
+std::cout
+::std::cout
+std::cout::endl
+::std::cout::endl

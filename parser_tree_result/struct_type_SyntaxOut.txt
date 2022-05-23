@@ -1,0 +1,18 @@
+struct_type
+    struct
+    ID
+        node
+    {
+    member_list
+        type_spce
+            base_type_spec
+                integer_type
+                    signed_int
+                        int32
+        declarators
+            declarator
+                simple_declarator
+                    ID
+                        x
+        ;
+    }

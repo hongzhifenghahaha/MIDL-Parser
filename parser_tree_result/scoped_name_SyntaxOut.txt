@@ -1,0 +1,10 @@
+scoped_name
+    ::
+    ID
+        std
+    ::
+    ID
+        cout
+    ::
+    ID
+        endl

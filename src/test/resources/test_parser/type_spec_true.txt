@@ -1,0 +1,29 @@
+::std
+std
+std::cout
+::std::cout
+std::cout::endl
+::std::cout::endl
+float
+double
+long double
+unsigned short
+uint16
+unsigned long
+uint32
+unsigned long long
+uint64
+uint8
+short
+int16
+long
+int32
+long long
+int64
+int8
+char
+string
+boolean
+struct node {int x; double y; std::cout z;}
+struct node {int x;}
+struct node {}
